@@ -8,3 +8,12 @@ and Stereoscopic 3D Left/Right Eye content for inmersive scenario.
 
 VR navigation trough circle in the screen
 you will wait for 2 seconds for select an item within the headset position.
+
+1.  - Clone this repository -
+
+$ git clone https://github.com/rogerthedeveloper/360-3D-Stereo-Image-or-Video-Three.js WEB-VR
+
+
+2. - Install Dependencies -
+
+$ npm install
