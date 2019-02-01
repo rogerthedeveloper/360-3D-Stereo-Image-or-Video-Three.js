@@ -12,9 +12,9 @@ you will wait for 3 seconds for select an item within the headset position.
 
 1.  - Clone this repository -
 
-$ git clone https://github.com/rogerthedeveloper/360-3D-Stereo-Image-or-Video-Three.js WEB-VR
+    $ git clone https://github.com/rogerthedeveloper/360-3D-Stereo-Image-or-Video-Three.js WEB-VR
 
 
 2. - Install Dependencies -
 
-$ npm install
+    $ npm install

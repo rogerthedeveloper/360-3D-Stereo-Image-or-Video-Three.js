@@ -234,6 +234,9 @@
 
         // load images
         scCube = THREE.ImageUtils.loadTextureCube(sides);
+        scCube.minFilter = THREE.NearestFilter;
+        scCube.maxFilter = THREE.NearestFilter;
+        
         scCube.format = THREE.RGBFormat;
 
         // prepare skybox material (shader)
