@@ -178,6 +178,8 @@
 
         effect = new THREE.StereoEffect(renderer);
 
+        effect.setEyeSeparation(0.70);
+
         scene = new THREE.Scene();
 
         camera = new THREE.PerspectiveCamera(90, 1, 0.001, 700);
@@ -225,6 +227,7 @@
 
         window.addEventListener('resize', resize, false);
         setTimeout(resize, 1);
+
     }
 
     function drawSimpleSkybox() {
