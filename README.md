@@ -4,7 +4,7 @@ An implementation of Three.js for take a starting point with 360° 3D Stereo Vid
 
 WEB solution for VR among Chrome Web Browser
 
-uses the Gyroscope, Acelerometer, 8D Audio Library, GamePad Api,
+uses the Gyroscope, Acelerometer, 8D Audio Library, GamePad API,
 and Stereoscopic 3D Left/Right Eye content for inmersive scenario.
 
 VR navigation trough circle in the screen
