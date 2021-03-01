@@ -4,7 +4,7 @@
   "description": "An implementation of Three.js for take a starting point with 360° 3D Stereo Video or Image, within Device Orientation Controller and Cursor Point Navigation for VR Google Cardboard or VR Box also Oculus.",
   "main": "index.js",
   "dependencies": {
-    "three": "0.101.0"
+    "three": "0.125.0"
   },
   "devDependencies": {},
   "scripts": {
